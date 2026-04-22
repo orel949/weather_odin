@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkweather_odin=self.webpackChunkweather_odin||[]).push([[8126],{8126(e,s,a){e.exports=a.p+"688c8262ed201d85faf3.svg"}}]);
